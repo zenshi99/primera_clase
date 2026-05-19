@@ -23,3 +23,22 @@ que aparecera en la pestaña del navegador
 
 
 ## Estructura de contenido semantico (secciones principales)
+
+# Estructura de contenido semántico 
+
+## Descripción
+La **estructura semántica** en HTML5 organiza el contenido de una página web usando etiquetas que tienen un significado específico.  
+Esto ayuda a que el código sea más claro y accesible, tanto para desarrolladores como para navegadores y buscadores.
+
+## Secciones principales
+
+- **`<header>`** → Encabezado de la página. Contiene el título, logo o menú principal.  
+- **`<nav>`** → Barra de navegación con enlaces a otras secciones o páginas.  
+- **`<main>`** → Contenido principal único de la página.  
+- **`<section>`** → Agrupa bloques temáticos (ejemplo: noticias, artículos, productos).  
+- **`<article>`** → Contenido independiente dentro de una sección (ejemplo: un post o noticia).  
+- **`<aside>`** → Información secundaria o complementaria (ejemplo: publicidad, enlaces relacionados).  
+- **`<footer>`** → Pie de página con créditos, contacto o enlaces finales.
+
+## Objetivo
+Explicar cómo se organiza un documento HTML5 de manera semántica, identificando las **secciones principales** que se deben usar en un proyecto.
