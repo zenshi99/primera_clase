@@ -6,7 +6,17 @@ de 'elementos' que esta a su vez esta conformado por 'etiquetas' de apertura y c
 >[!TIP] En algunos casos encontraremos los 'elementos' huerfano estos solo estan conformados
 por una sola etiqueta.
 
-## Estructura de un elemento en HTML
+# 🏗️ Estructura de un elemento en HTML
+
+Un **elemento en HTML** está compuesto por varias partes que definen cómo se interpreta y muestra el contenido en el navegador:
+
+1. **Etiqueta de apertura**  
+   - Indica el inicio del elemento.  
+   - Se escribe entre corchetes angulares `< >`.  
+   - Puede incluir **atributos** que añaden información extra.  
+   Ejemplo:  
+   ```html
+   <p class="texto">
 
 
 ## Estructura fundmental del documento HTML 
