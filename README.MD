@@ -63,11 +63,31 @@ Explicar cómo se organiza un documento HTML5 de manera semántica, identificand
  '''html
  <|--el html de ejemplo-->
  '''
- ### parrafos yt enfacis
+ ### parrafos y enfasis
+<p>Este es un párrafo normal.</p>
+<p><strong>Texto en negrita</strong> y <em>texto en cursiva</em>.</p>
+
  ### lsita
+ <ul>
+  <li>Elemento 1</li>
+  <li>Elemento 2</li>
+</ul>
+
+<ol>
+  <li>Paso 1</li>
+  <li>Paso 2</li>
+</ol>
+
  ### citas y referencias
- ### cigo y texto tecnico
+<blockquote>"La práctica hace al maestro."</blockquote>
+<cite>Autor desconocido</cite>
+
+ ### codigo y texto tecnico
+ <code>&lt;h1&gt;Hola mundo&lt;/h1&gt;</code>
+
  ### lineas y saltos
+<hr>
+<p>Texto antes del salto<br>Texto después del salto</p>
 
  #### ejemplo practico que  contenga todos antterios
 ejemplo practico que contenga todo anterios
