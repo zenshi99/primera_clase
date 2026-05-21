@@ -52,3 +52,23 @@ Esto ayuda a que el código sea más claro y accesible, tanto para desarrollador
 
 ## Objetivo
 Explicar cómo se organiza un documento HTML5 de manera semántica, identificando las **secciones principales** que se deben usar en un proyecto.
+
+
+
+
+ ## ESTRUCTURA DE TEXTO
+ ### jerarquia de encabezados
+ descripcion
+ ejemplo
+ '''html
+ <|--el html de ejemplo-->
+ '''
+ ### parrafos yt enfacis
+ ### lsita
+ ### citas y referencias
+ ### cigo y texto tecnico
+ ### lineas y saltos
+
+ #### ejemplo practico que  contenga todos antterios
+ejemplo practico que contenga todo anterios
+en carpeta raiz crearan una carpeta de nombre ejercicio_01 dentro de la carpeta crearan el archivo index.html dentro de este archivo aran el ejemplo practico integrador (que tendra todas etiquetas trabajas hasta el momento)
