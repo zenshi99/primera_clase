@@ -67,7 +67,7 @@ Explicar cómo se organiza un documento HTML5 de manera semántica, identificand
 <p>Este es un párrafo normal.</p>
 <p><strong>Texto en negrita</strong> y <em>texto en cursiva</em>.</p>
 
- ### lsita
+ ### lstsa
  <ul>
   <li>Elemento 1</li>
   <li>Elemento 2</li>
@@ -92,3 +92,17 @@ Explicar cómo se organiza un documento HTML5 de manera semántica, identificand
  #### ejemplo practico que  contenga todos antterios
 ejemplo practico que contenga todo anterios
 en carpeta raiz crearan una carpeta de nombre ejercicio_01 dentro de la carpeta crearan el archivo index.html dentro de este archivo aran el ejemplo practico integrador (que tendra todas etiquetas trabajas hasta el momento)
+
+## CSS (cascanding style sheet)
+cascada de hojas de estilo, es el documento que nos permite darle estiloa nuestros elementos, posicionar, escalar, color, transciciones
+## maneras de aplicar css a nuestro documento  html
+### 1. en linea
+esta manera de aplicarse css es asiendo uso de los atributos de un elemento en este caso en especial usando el atributo  `style`
+```html
+<p style="color:pink:size:23px">este es el texto</p>
+```
+> 
+> [!TIP] en el caso de lo  embebidos y los de archivos dexterno haytq ue entender sobre selectores: son manera de como yo identifico un elemento dentro de un documento html, selectores por etiquetas, id y clase, en el diseño  web se recomienda solo usar los selectores de tipo clase
+### 2. embebidos
+este tipo de aplicar estilo nos permite hacer uso de la etuqieta style para poder estilar nuestros elemetos, por convencio esta etiqueta al ser  de  configuracion se debe usar en `head`
+### 3. archivo externo
