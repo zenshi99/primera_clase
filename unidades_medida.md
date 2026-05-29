@@ -18,5 +18,5 @@ Se usan cuando quieres un tamaño exacto.
 👉 Ejemplo:
 ```css
 p {
-  font-size: 16px; /* tamaño fijo */
+  font-size: 16px; 
 }
