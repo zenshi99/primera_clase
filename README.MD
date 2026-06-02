@@ -106,3 +106,4 @@ esta manera de aplicarse css es asiendo uso de los atributos de un elemento en e
 ### 2. embebidos
 este tipo de aplicar estilo nos permite hacer uso de la etuqieta style para poder estilar nuestros elemetos, por convencio esta etiqueta al ser  de  configuracion se debe usar en `head`
 ### 3. archivo externo
+es la manera correcta y mas usada para aplicar estilos dentro de un documentoi `html`  para asociar un archivo externo lo  tenemoiis que hacer en nuestra eqtiqueta de configuracion, asiendo uso de la etiqueta `link` a travez de su atributo `href`, en este atributo le indicamos la ruta del archivo que se debe asociar
