@@ -106,4 +106,11 @@ esta manera de aplicarse css es asiendo uso de los atributos de un elemento en e
 ### 2. embebidos
 este tipo de aplicar estilo nos permite hacer uso de la etuqieta style para poder estilar nuestros elemetos, por convencio esta etiqueta al ser  de  configuracion se debe usar en `head`
 ### 3. archivo externo
-es la manera correcta y mas usada para aplicar estilos dentro de un documentoi `html`  para asociar un archivo externo lo  tenemoiis que hacer en nuestra eqtiqueta de configuracion, asiendo uso de la etiqueta `link` a travez de su atributo `href`, en este atributo le indicamos la ruta del archivo que se debe asociar
+es la manera correcta y mas usada para aplicar estilos dentro de un documentoi `html`  para asociar un archivo externo lo  tenemoiis que hacer en nuestra eqtiqueta de configuracion, asiendo uso de la etiqueta `link` a travez de su atributo `href`, en este atributo le indicamos la ruta del archivo que se debe asociar.
+
+> [!TIP] **obvservacion:** una ruta absoluta es la direccion completa del archivo ejem: `C:\Users\USER\OneDrive\Desktop - copia\alvbarez\primera_clase`, y una ruta relativa es la direccion actual del proyecto ejem: `./` 
+**ejemplo**
+##tenemos en mi carpeta del proyecto un archivo llamado `logo,png` como acceder a este archivo usando su ruta absoluta 
+C:\Users\USER\OneDrive\Desktop - copia\alvbarez\primera_clase/logo.png
+#usando la ruta relativa
+./logo.png
